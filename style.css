@@ -1,8 +1,13 @@
-.box
-{
-  height:80px;
-  width:120px;
-  color:red;
-  background-color:yellow;
+.box {
+  height: 80px;
+  width: 120px;
+  background-color: purple;
+  text-align:center;
+  margin:auto;
+  padding-top: 40px;
+  font-size:30px;
+  color:white;
+  border:3px solid #000fff;
   transform:rotate(90deg);
+  
 }
