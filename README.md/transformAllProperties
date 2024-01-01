@@ -1,0 +1,14 @@
+transform:rotate(45deg);
+transform:rotateX(60deg);
+transform:rotateY();
+transform:rotateZ();
+---------------------------- scale() this property is used to increase or decrease the size of box-------------------------------
+transform:scale()
+transform:scaleX()
+transform:scaleY()
+transform:scaleZ()
+transform:scale(X,Y)----------you can also give negative value
+-------------------------------translate to move left, right , upward, downward behind  , front we use translate
+transform:translateX(), translateY(), translateZ() , translate(x,y), translate(30px) itwill move right and -30px it will move left, it will translateY(120px) move 
+downward and translateY(-90px) it will move upward.
+transform:translate(x,y)
